@@ -1,1 +1,4 @@
 # funcseq
+This was a project carried out under the guidance of Neville Sanjana at the New York Genome Center in spring 2017 for Richard Bonneau's graduate class, Bioinformatics and Genomes. The question we tried to answer: can we predict whether a non-coding (intron) section will be functional or not?
+
+I worked with a group of biology students to see if we could use machine learning to predict which non-coding segments of DNA actually affected gene regulation and disease. I used R to implement algorithms such as random forest, SVM, kNN, etc. Any high school biology student can tell you that the vast majority of DNA is non-coding (not translated into proteins), however, what's not widely known is that this non-coding portion can affect very important things such as gene regulation and resistance to therapeutic cancer drugs, etc. Our team looked at publicly available data to see if we could predict where these DNA segments lie. 
